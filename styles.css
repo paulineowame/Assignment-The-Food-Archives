@@ -1,0 +1,35 @@
+body {
+    color: black; 
+    background-color: aqua;
+    font-family: lato, sans-serif;
+    font-size: 1em;
+}
+nav {
+    border:1px solid black;
+    margin: 0% auto;
+    float:left;
+    width: 100%;
+    background-color: blue;
+    color: black;
+    font-family: lato, sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+}
+footer {
+    background-color: blue;
+    color: black;
+    border:1px solid black;
+    margin: 0% auto;
+    font-family: lato, sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+}
+header {
+    background-color: blue;
+    color: black;
+    border:1px solid black;
+    margin: 0% auto;
+    font-family: lato, sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+}
